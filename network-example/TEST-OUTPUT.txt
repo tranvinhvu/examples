@@ -1,0 +1,18 @@
+DEBUG INFO:
+1 2 3 4 5 6 7 8 
+==================================
+0 1 0 0 0 0 0 0 
+1 0 0 1 0 1 0 0 
+0 0 0 0 0 0 0 0 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 1 
+0 1 0 0 0 0 0 0 
+0 0 0 0 0 0 0 0 
+0 0 0 0 1 0 0 0 
+==================================
+QUERY RESULTS:
+Querry 1 and 2 = true
+Querry 1 and 6 = true
+Querry 6 and 4 = true
+Querry 3 and 4 = false
+Querry 1 and 7 = false
